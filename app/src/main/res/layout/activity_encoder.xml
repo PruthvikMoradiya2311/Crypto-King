@@ -85,7 +85,7 @@
                 android:textColor="@color/white"
                 android:textSize="16sp"
                 android:textStyle="bold"
-                app:backgroundTint="#01105C" />
+                android:backgroundTint="#01105C" />
 
 
         </LinearLayout>
@@ -154,7 +154,7 @@
                 android:textColor="@color/white"
                 android:textSize="16sp"
                 android:textStyle="bold"
-                app:backgroundTint="#01105C" />
+                android:backgroundTint="#01105C" />
 
         </LinearLayout>
 
